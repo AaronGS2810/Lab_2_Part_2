@@ -1,3 +1,3 @@
 //Primer cambio
 
-//Gracias por el cambio, mi pana
+//No hace falta las gracias
